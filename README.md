@@ -42,12 +42,14 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -59,6 +61,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -68,4 +71,8 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
