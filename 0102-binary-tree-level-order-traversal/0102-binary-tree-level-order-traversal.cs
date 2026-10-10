@@ -19,9 +19,9 @@ public class Solution {
 
         Queue<TreeNode> level = new Queue<TreeNode>();
         level.Enqueue(root);
-        int levelCount = level.Count;
-        while(levelCount > 0)
+        while(level.Count > 0)
         {
+            int levelCount = level.Count;
             List<int> levelItems = new List<int>();
             for(int i =0; i<levelCount ; i++)
             {
@@ -31,7 +31,6 @@ public class Solution {
                 if(node.right != null) level.Enqueue(node.right);
             }
             result.Add(levelItems);
-            levelCount = level.Count;
         }
         return result; 
     }
