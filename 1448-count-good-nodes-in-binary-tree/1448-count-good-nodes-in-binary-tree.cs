@@ -12,19 +12,15 @@
  * }
  */
 public class Solution {
+    public int GoodNodes(TreeNode root) => Count(root, root.val);
 
-    int MaxGoodNodes = 0;
-    public int GoodNodes(TreeNode root) {
-        IsGoodNodes(root,root.val);
-        return MaxGoodNodes;
-    }
+private int Count(TreeNode node, int maxSoFar)
+{
+    if (node == null) return 0;
 
-    private void IsGoodNodes(TreeNode root,int MaxVal)
-    {
-        if(root == null) return;
-        if(root.val >= MaxVal) MaxGoodNodes++;
-        MaxVal = Math.Max(root.val, MaxVal);
-        IsGoodNodes(root.left,MaxVal);
-        IsGoodNodes(root.right,MaxVal);
-    }
+    int good = node.val >= maxSoFar ? 1 : 0;        // >= : equal is still good
+    int newMax = Math.Max(maxSoFar, node.val);      // what the children will see
+
+    return good + Count(node.left, newMax) + Count(node.right, newMax);
+}
 }
