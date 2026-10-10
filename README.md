@@ -48,6 +48,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0543-diameter-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0226-invert-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0112-path-sum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shwetaptl/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,6 +79,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0543-diameter-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
