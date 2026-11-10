@@ -14,10 +14,7 @@ public class Solution {
 
         while(queue.Count > 0)
         {
-            int queueSize = queue.Count;
-
-            for(int i = 0 ; i< queueSize ; i++)
-            {
+            
                 var (r,c) = queue.Dequeue(); 
 
                 foreach(var (dr,dc) in dirs)
@@ -29,7 +26,7 @@ public class Solution {
                     image[nr][nc] = color;
                     queue.Enqueue((nr,nc));
                 }
-            }
+            
         }
         return image;
     }
