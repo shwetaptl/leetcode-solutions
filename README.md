@@ -78,6 +78,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0547-number-of-provinces](https://github.com/shwetaptl/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/shwetaptl/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/shwetaptl/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -95,6 +96,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0417-pacific-atlantic-water-flow](https://github.com/shwetaptl/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/shwetaptl/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shwetaptl/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/shwetaptl/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/shwetaptl/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -163,6 +165,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0207-course-schedule](https://github.com/shwetaptl/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/shwetaptl/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/shwetaptl/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -171,4 +174,16 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shwetaptl/leetcode-solutions/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shwetaptl/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shwetaptl/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shwetaptl/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
