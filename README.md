@@ -121,6 +121,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 ## String Matching
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shwetaptl/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -193,6 +194,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shwetaptl/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shwetaptl/leetcode-solutions/tree/master/0046-permutations) |
@@ -201,4 +203,12 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shwetaptl/leetcode-solutions/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shwetaptl/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shwetaptl/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
