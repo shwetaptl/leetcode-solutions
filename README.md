@@ -24,6 +24,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0039-combination-sum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shwetaptl/leetcode-solutions/tree/master/0046-permutations) |
+| [0057-insert-interval](https://github.com/shwetaptl/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/shwetaptl/leetcode-solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shwetaptl/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/shwetaptl/leetcode-solutions/tree/master/0200-number-of-islands) |
