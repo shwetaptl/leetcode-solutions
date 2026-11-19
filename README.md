@@ -40,10 +40,12 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0001-two-sum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shwetaptl/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/shwetaptl/leetcode-solutions/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shwetaptl/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/shwetaptl/leetcode-solutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -236,4 +238,12 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shwetaptl/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shwetaptl/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
