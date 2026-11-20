@@ -35,6 +35,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0695-max-area-of-island](https://github.com/shwetaptl/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shwetaptl/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shwetaptl/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shwetaptl/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0733-flood-fill](https://github.com/shwetaptl/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/shwetaptl/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/shwetaptl/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shwetaptl/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -166,6 +168,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0695-max-area-of-island](https://github.com/shwetaptl/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shwetaptl/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shwetaptl/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shwetaptl/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
