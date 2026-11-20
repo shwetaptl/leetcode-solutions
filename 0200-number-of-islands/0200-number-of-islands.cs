@@ -13,6 +13,7 @@ public class Solution {
                 if(grid[i][j] == '1')
                 {
                     noOfIslands++;
+                    grid[i][j] = '0';
                     queue.Enqueue((i,j));
                     DFS();
                 }
