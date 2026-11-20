@@ -88,6 +88,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0543-diameter-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shwetaptl/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/shwetaptl/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shwetaptl/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shwetaptl/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/shwetaptl/leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -107,6 +108,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shwetaptl/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/shwetaptl/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/shwetaptl/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shwetaptl/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shwetaptl/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/shwetaptl/leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -175,6 +177,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0200-number-of-islands](https://github.com/shwetaptl/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/shwetaptl/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/shwetaptl/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shwetaptl/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
@@ -183,6 +186,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0207-course-schedule](https://github.com/shwetaptl/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/shwetaptl/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/shwetaptl/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/shwetaptl/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
