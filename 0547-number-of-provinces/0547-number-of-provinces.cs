@@ -1,35 +1,47 @@
 public class Solution {
     public int FindCircleNum(int[][] isConnected) {
-        
         int n = isConnected.Length;
+        int noOfProvinces = 0 ;
         var visited = new bool[n];
-        int provinces = 0 ;
-        var queue= new Queue<int>();
+        var queue = new Queue<int>();
 
-        for(int i=0 ; i< n ; i++)
+        //Create graph
+        var graph = new List<int>[n];
+        for(int i = 0 ; i< n ; i++) graph[i] = new List<int>();
+
+        for(int i = 0 ; i< n; i++)
         {
+            for(int j = 0 ; j < n ; j++)
+            {
+                if(i == j) continue;
+                if(isConnected[i][j] == 1) graph[i].Add(j);
+            }
+        }
 
+        for(int i = 0 ; i<n ; i++)
+        {
             if(visited[i]) continue;
-
-            provinces++;
             visited[i] = true;
             queue.Enqueue(i);
+            noOfProvinces++;
+            BFS();
+        }
+        return noOfProvinces;
 
-            while(queue.Count > 0)
+        void BFS()
+        {
+            while (queue.Count > 0)
             {
-                var current = queue.Dequeue();
-                for(int j = 0 ; j < n ; j++)
+                var node = queue.Dequeue();
+                foreach(var neighbour in graph[node])
                 {
-                    if(isConnected[current][j] == 1 && !visited[j])
-                    {
-                        visited[j] = true;
-                        queue.Enqueue(j);
-                    }
+                    if(visited[neighbour]) continue;
+                    visited[neighbour] = true;
+                    queue.Enqueue(neighbour);
+
                 }
             }
-
         }
-        return provinces;
 
     }
 }
