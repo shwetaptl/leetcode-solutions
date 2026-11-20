@@ -1,64 +1,62 @@
-using System;
-using System.Collections.Generic;
-
-public class Solution
-{
-    public IList<IList<int>> PacificAtlantic(int[][] heights)
-    {
+public class Solution {
+    public IList<IList<int>> PacificAtlantic(int[][] heights) {
+        int row = heights.Length, col = heights[0].Length;
         var result = new List<IList<int>>();
-        int rows = heights.Length, cols = heights[0].Length;
-        var pacific = new bool[rows,cols];
-        var atlantic = new bool[rows,cols];
+        var dir = new (int dr, int dc)[]{(0,1),(1,0),(-1,0),(0,-1)};
         var pacificQueue = new Queue<(int r, int c)>();
         var atlanticQueue = new Queue<(int r, int c)>();
+        bool[,] visitPacific = new bool[row,col];
+        bool[,] visitAtlantic = new bool[row,col];
 
-
-        for(int r = 0; r < rows ; r++)
+        for(int i = 0 ; i < row ; i++)
         {
-            pacific[r,0] = true;
-            atlantic[r,cols-1] = true;
-            pacificQueue.Enqueue((r,0));
-            atlanticQueue.Enqueue((r,cols-1));
+            visitPacific[i,0] = true;
+            visitAtlantic[i,col-1] = true;
+            pacificQueue.Enqueue((i,0));
+            atlanticQueue.Enqueue((i,col-1));
+        }
+        for(int i = 0 ; i < col ; i++)
+        {
+            visitPacific[0,i] = true;
+            visitAtlantic[row-1,i] = true;
+            pacificQueue.Enqueue((0,i));
+            atlanticQueue.Enqueue((row-1,i));
         }
 
-        for(int c = 0; c < cols ; c++)
-        {
-            pacific[0,c] = true;
-            atlantic[rows-1,c] = true;
-            pacificQueue.Enqueue((0,c));
-            atlanticQueue.Enqueue((rows-1,c));
-        }
-        BFS(heights,pacificQueue,pacific,rows,cols);
-        BFS(heights,atlanticQueue, atlantic,rows,cols);
+        BFS(pacificQueue,visitPacific,row,col);
+        BFS(atlanticQueue,visitAtlantic, row, col );
 
-        for(int i = 0 ; i < rows ; i++)
+        for(int i = 0 ; i < row ;i++)
         {
-            for(int j = 0; j< cols; j++)
+            for(int j= 0 ; j<col ; j++)
             {
-                if(pacific[i,j] && atlantic[i,j])
+                if(visitPacific[i,j] && visitAtlantic[i,j])
                 result.Add(new List<int>{i,j});
             }
         }
+
         return result;
 
-
-    }
-
-    private void BFS(int[][] heights, Queue<(int r, int c)> queue, bool[,] visited, int rows, int cols)
-    {
-        while(queue.Count > 0)
+        void BFS(Queue<(int r, int c)> queue, bool[,] visited, int row, int col )
         {
-            var (r,c) = queue.Dequeue();
-            var dirs = new (int Dr, int Dc)[] { (1, 0), (-1, 0), (0, 1), (0, -1) };
-            foreach (var (dr, dc) in dirs)
+            while(queue.Count > 0)
             {
-                int nr = r + dr, nc = c + dc;
-                if (nr < 0 || nr >= rows || nc < 0 || nc >= cols) continue;
-                if (visited[nr, nc]) continue;
-                if (heights[nr][nc] < heights[r][c]) continue;         // can't climb down
-                visited[nr,nc] = true;
-                queue.Enqueue((nr,nc ));
+                var (r,c)  = queue.Dequeue();
+                foreach(var (dr,dc) in dir)
+                {
+                    int nr = r+dr, nc = c+dc;
+                    if(nr < 0 || nr >= row || nc <0 || nc >= col) continue;
+                    if (visited[nr,nc]) continue;
+
+                    if(heights[r][c] <= heights[nr][nc])
+                    {
+                        visited[nr,nc] = true;
+                        queue.Enqueue((nr,nc));
+                    }
+                }
             }
         }
+
+
     }
 }
