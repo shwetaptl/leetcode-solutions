@@ -32,6 +32,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0253-meeting-rooms-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0286-walls-and-gates](https://github.com/shwetaptl/leetcode-solutions/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shwetaptl/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/shwetaptl/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shwetaptl/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shwetaptl/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Hash Table
@@ -86,6 +87,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0543-diameter-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shwetaptl/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/shwetaptl/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shwetaptl/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/shwetaptl/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -104,6 +106,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shwetaptl/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/shwetaptl/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/shwetaptl/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shwetaptl/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/shwetaptl/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/shwetaptl/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -160,6 +163,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0200-number-of-islands](https://github.com/shwetaptl/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/shwetaptl/leetcode-solutions/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shwetaptl/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/shwetaptl/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shwetaptl/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shwetaptl/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -168,6 +172,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0200-number-of-islands](https://github.com/shwetaptl/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/shwetaptl/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/shwetaptl/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
