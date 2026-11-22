@@ -26,6 +26,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0046-permutations](https://github.com/shwetaptl/leetcode-solutions/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/shwetaptl/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/shwetaptl/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shwetaptl/leetcode-solutions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shwetaptl/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/shwetaptl/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0252-meeting-rooms](https://github.com/shwetaptl/leetcode-solutions/tree/master/0252-meeting-rooms) |
@@ -74,6 +75,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shwetaptl/leetcode-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0112-path-sum) |
@@ -134,6 +136,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shwetaptl/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/shwetaptl/leetcode-solutions/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -164,6 +167,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shwetaptl/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shwetaptl/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/shwetaptl/leetcode-solutions/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shwetaptl/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -217,6 +221,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0040-combination-sum-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shwetaptl/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shwetaptl/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shwetaptl/leetcode-solutions/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
