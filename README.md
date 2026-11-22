@@ -23,6 +23,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0001-two-sum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/shwetaptl/leetcode-solutions/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/shwetaptl/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/shwetaptl/leetcode-solutions/tree/master/0078-subsets) |
@@ -230,6 +231,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shwetaptl/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0045-jump-game-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -250,6 +252,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0253-meeting-rooms-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 ## Prefix Sum
 |  |
