@@ -73,6 +73,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0199-binary-tree-right-side-view](https://github.com/shwetaptl/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -90,6 +91,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0207-course-schedule](https://github.com/shwetaptl/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shwetaptl/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -112,6 +114,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0207-course-schedule](https://github.com/shwetaptl/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0286-walls-and-gates](https://github.com/shwetaptl/leetcode-solutions/tree/master/0286-walls-and-gates) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shwetaptl/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/shwetaptl/leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -133,6 +136,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0199-binary-tree-right-side-view](https://github.com/shwetaptl/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -142,6 +146,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | ------- |
 | [0022-generate-parentheses](https://github.com/shwetaptl/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/shwetaptl/leetcode-solutions/tree/master/0079-word-search) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -270,6 +275,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shwetaptl/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
