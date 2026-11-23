@@ -54,6 +54,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shwetaptl/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/shwetaptl/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -232,6 +233,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | ------- |
 | [0022-generate-parentheses](https://github.com/shwetaptl/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/shwetaptl/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -266,4 +268,8 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shwetaptl/leetcode-solutions/tree/master/0146-lru-cache) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shwetaptl/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
