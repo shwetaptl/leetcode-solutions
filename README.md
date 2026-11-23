@@ -31,6 +31,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shwetaptl/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0198-house-robber](https://github.com/shwetaptl/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shwetaptl/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0252-meeting-rooms](https://github.com/shwetaptl/leetcode-solutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0286-walls-and-gates](https://github.com/shwetaptl/leetcode-solutions/tree/master/0286-walls-and-gates) |
@@ -237,6 +238,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0045-jump-game-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/shwetaptl/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/shwetaptl/leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/shwetaptl/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Bracket Sequences
 |  |
