@@ -32,6 +32,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0198-house-robber](https://github.com/shwetaptl/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shwetaptl/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/shwetaptl/leetcode-solutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0286-walls-and-gates](https://github.com/shwetaptl/leetcode-solutions/tree/master/0286-walls-and-gates) |
@@ -220,6 +221,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0743-network-delay-time](https://github.com/shwetaptl/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Shortest Path
@@ -298,6 +300,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -307,4 +310,13 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shwetaptl/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
