@@ -45,6 +45,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shwetaptl/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shwetaptl/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/shwetaptl/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0133-clone-graph) |
@@ -147,6 +148,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 ## String Matching
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shwetaptl/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/shwetaptl/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/shwetaptl/leetcode-solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/shwetaptl/leetcode-solutions/tree/master/0127-word-ladder) |
@@ -301,4 +303,8 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shwetaptl/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
