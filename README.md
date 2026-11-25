@@ -49,6 +49,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0127-word-ladder](https://github.com/shwetaptl/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/shwetaptl/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -150,6 +151,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0079-word-search](https://github.com/shwetaptl/leetcode-solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/shwetaptl/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -291,4 +293,12 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/shwetaptl/leetcode-solutions/tree/master/0127-word-ladder) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
