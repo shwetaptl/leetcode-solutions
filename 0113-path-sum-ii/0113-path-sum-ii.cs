@@ -25,8 +25,8 @@ public class Solution
             result.Add(new List<int>(path));
         }
 
-        DFS(node.left, remaining, path, result);
-        DFS(node.right, remaining, path, result);
+        DFS(node.left, remaining, path, result);//O(n)
+        DFS(node.right, remaining, path, result);//O(n)
 
         // Backtracking
         path.RemoveAt(path.Count - 1);
