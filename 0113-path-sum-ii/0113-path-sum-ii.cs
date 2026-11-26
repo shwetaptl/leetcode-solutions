@@ -23,6 +23,8 @@ public class Solution
         if (node.left == null && node.right == null && remaining == 0)
         {
             result.Add(new List<int>(path));
+            //O(k*h) Number of valid paths = K Maximum length of each path = O(h)
+            //Worst case k = O(n) h = O(n) like target = 0 and all path value = 0 
         }
 
         DFS(node.left, remaining, path, result);//O(n)
@@ -32,3 +34,6 @@ public class Solution
         path.RemoveAt(path.Count - 1);
     }
 }
+//time = O(n + k*h) but worst case = O(n^2) 
+//result space = O(K × h)
+//Auxiliary space = o(h)
