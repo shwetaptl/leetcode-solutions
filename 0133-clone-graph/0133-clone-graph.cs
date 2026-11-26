@@ -23,28 +23,23 @@ public class Node {
 
 public class Solution {
     public Node CloneGraph(Node node) {
-        if(node == null) return null;
-        
-        var copies = new Dictionary<Node,Node>();
-        copies[node] = new Node(node.val);
-        
-        var queue = new Queue<Node>();
-        queue.Enqueue(node);
+        if (node == null) return null;
+        var clone = new Dictionary<Node,Node>();
+        CloneNode(node);
+        return clone[node];
 
-        while(queue.Count > 0)
+        void CloneNode(Node node)
         {
-            var current = queue.Dequeue();
-            foreach(var neighbor in current.neighbors)
+            Node cloneNode = new Node(node.val);
+            clone[node] = cloneNode;
+            foreach(var neighbor in node.neighbors)
             {
-                if(!copies.ContainsKey(neighbor))
+                if(!clone.ContainsKey(neighbor))
                 {
-                    copies[neighbor] = new Node(neighbor.val);
-                    queue.Enqueue(neighbor);
+                    CloneNode(neighbor);
                 }
-                copies[current].neighbors.Add(copies[neighbor]);
-            }
+                cloneNode.neighbors.Add(clone[neighbor]);
+            }     
         }
-        return copies[node];
-
     }
 }
