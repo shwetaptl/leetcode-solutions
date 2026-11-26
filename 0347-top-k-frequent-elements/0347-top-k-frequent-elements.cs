@@ -16,7 +16,7 @@ public class Solution {
             bucket[freq].Add(num);
         }
         int index= 0;
-        for(int i = bucket.Length - 1 ; i>=0 ; i--)
+        for(int i = bucket.Length - 1 ; i>=0 ; i--)// O(n+k)
         {
             if(bucket[i] == null) continue;
 
