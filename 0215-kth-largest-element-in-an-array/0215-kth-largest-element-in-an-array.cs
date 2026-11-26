@@ -12,3 +12,8 @@ public class Solution {
         return queue.Peek();
     }
 }
+//Time Complexity: O(n log k) for k ≥ 2; O(n) when k = 1.
+
+//Space Complexity: O(k)
+
+//Approach: Min Heap of size k.
