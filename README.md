@@ -74,6 +74,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0104-maximum-depth-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shwetaptl/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shwetaptl/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -89,6 +90,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0098-validate-binary-search-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0133-clone-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/shwetaptl/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shwetaptl/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -138,6 +140,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0104-maximum-depth-of-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shwetaptl/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shwetaptl/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -241,6 +244,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0046-permutations](https://github.com/shwetaptl/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shwetaptl/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shwetaptl/leetcode-solutions/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
