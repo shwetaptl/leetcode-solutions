@@ -36,6 +36,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0252-meeting-rooms](https://github.com/shwetaptl/leetcode-solutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0286-walls-and-gates](https://github.com/shwetaptl/leetcode-solutions/tree/master/0286-walls-and-gates) |
+| [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shwetaptl/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/shwetaptl/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shwetaptl/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -51,6 +52,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0127-word-ladder](https://github.com/shwetaptl/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/shwetaptl/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
@@ -185,6 +187,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shwetaptl/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -226,6 +229,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/shwetaptl/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
@@ -267,6 +271,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | ------- |
 | [0252-meeting-rooms](https://github.com/shwetaptl/leetcode-solutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -309,6 +314,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -323,4 +329,12 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
