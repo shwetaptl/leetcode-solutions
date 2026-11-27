@@ -40,6 +40,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0252-meeting-rooms](https://github.com/shwetaptl/leetcode-solutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0286-walls-and-gates](https://github.com/shwetaptl/leetcode-solutions/tree/master/0286-walls-and-gates) |
+| [0322-coin-change](https://github.com/shwetaptl/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shwetaptl/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/shwetaptl/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -131,6 +132,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0261-graph-valid-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0261-graph-valid-tree) |
 | [0286-walls-and-gates](https://github.com/shwetaptl/leetcode-solutions/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/shwetaptl/leetcode-solutions/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shwetaptl/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/shwetaptl/leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -276,6 +278,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/shwetaptl/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/shwetaptl/leetcode-solutions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/shwetaptl/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Bracket Sequences
 |  |
@@ -358,4 +361,12 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shwetaptl/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shwetaptl/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shwetaptl/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
