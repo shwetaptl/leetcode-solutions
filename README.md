@@ -32,6 +32,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shwetaptl/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/shwetaptl/leetcode-solutions/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/shwetaptl/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shwetaptl/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shwetaptl/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -56,6 +57,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shwetaptl/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/shwetaptl/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/shwetaptl/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/shwetaptl/leetcode-solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/shwetaptl/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -167,6 +169,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0022-generate-parentheses](https://github.com/shwetaptl/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/shwetaptl/leetcode-solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/shwetaptl/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/shwetaptl/leetcode-solutions/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -276,6 +279,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0053-maximum-subarray](https://github.com/shwetaptl/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shwetaptl/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/shwetaptl/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shwetaptl/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shwetaptl/leetcode-solutions/tree/master/0322-coin-change) |
@@ -325,6 +329,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shwetaptl/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shwetaptl/leetcode-solutions/tree/master/0139-word-break) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -369,4 +374,12 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shwetaptl/leetcode-solutions/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shwetaptl/leetcode-solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shwetaptl/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
