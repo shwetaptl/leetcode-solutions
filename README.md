@@ -58,6 +58,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0146-lru-cache](https://github.com/shwetaptl/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0763-partition-labels](https://github.com/shwetaptl/leetcode-solutions/tree/master/0763-partition-labels) |
 ## Linked List
 |  |
 | ------- |
@@ -167,6 +168,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0763-partition-labels](https://github.com/shwetaptl/leetcode-solutions/tree/master/0763-partition-labels) |
 ## Hash Function
 |  |
 | ------- |
@@ -294,6 +296,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
+| [0763-partition-labels](https://github.com/shwetaptl/leetcode-solutions/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
 | ------- |
@@ -301,6 +304,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/shwetaptl/leetcode-solutions/tree/master/0134-gas-station) |
 | [0253-meeting-rooms-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
+| [0763-partition-labels](https://github.com/shwetaptl/leetcode-solutions/tree/master/0763-partition-labels) |
 ## Prefix Sum
 |  |
 | ------- |
