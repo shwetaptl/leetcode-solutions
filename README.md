@@ -60,6 +60,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0139-word-break](https://github.com/shwetaptl/leetcode-solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/shwetaptl/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0359-logger-rate-limiter](https://github.com/shwetaptl/leetcode-solutions/tree/master/0359-logger-rate-limiter) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/shwetaptl/leetcode-solutions/tree/master/0763-partition-labels) |
 ## Linked List
@@ -321,6 +322,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | ------- |
 | [0146-lru-cache](https://github.com/shwetaptl/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0359-logger-rate-limiter](https://github.com/shwetaptl/leetcode-solutions/tree/master/0359-logger-rate-limiter) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -382,4 +384,8 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shwetaptl/leetcode-solutions/tree/master/0139-word-break) |
+## Data Stream
+|  |
+| ------- |
+| [0359-logger-rate-limiter](https://github.com/shwetaptl/leetcode-solutions/tree/master/0359-logger-rate-limiter) |
 <!---LeetCode Topics End-->
