@@ -63,6 +63,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0359-logger-rate-limiter](https://github.com/shwetaptl/leetcode-solutions/tree/master/0359-logger-rate-limiter) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/shwetaptl/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/shwetaptl/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/shwetaptl/leetcode-solutions/tree/master/0763-partition-labels) |
 ## Linked List
@@ -175,6 +176,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0139-word-break](https://github.com/shwetaptl/leetcode-solutions/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/shwetaptl/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/shwetaptl/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0763-partition-labels](https://github.com/shwetaptl/leetcode-solutions/tree/master/0763-partition-labels) |
 ## Hash Function
@@ -354,6 +356,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shwetaptl/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/shwetaptl/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/shwetaptl/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Monotonic Queue
 |  |
 | ------- |
