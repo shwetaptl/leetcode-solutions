@@ -12,9 +12,12 @@ public class Solution {
                  if(start >=0 && dp[start] && s.Substring(start,word.Length) == word)
                  {
                     dp[i] = true;
+                    break;
                  }
             }
         }
         return dp[s.Length];
     }
 }
+//Time  - O(n × m × L): n = s.Length, m = wordDict.Count, L = max word length 
+//Space -  O(n) for dp
