@@ -44,6 +44,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0322-coin-change](https://github.com/shwetaptl/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shwetaptl/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0560-subarray-sum-equals-k](https://github.com/shwetaptl/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/shwetaptl/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shwetaptl/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/shwetaptl/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -62,6 +63,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 | [0347-top-k-frequent-elements](https://github.com/shwetaptl/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0359-logger-rate-limiter](https://github.com/shwetaptl/leetcode-solutions/tree/master/0359-logger-rate-limiter) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetaptl/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/shwetaptl/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/shwetaptl/leetcode-solutions/tree/master/0763-partition-labels) |
 ## Linked List
 |  |
@@ -317,6 +319,7 @@ The table below is auto-generated and updated by LeetHub v2 on every new accepte
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/shwetaptl/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/shwetaptl/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Design
 |  |
 | ------- |
